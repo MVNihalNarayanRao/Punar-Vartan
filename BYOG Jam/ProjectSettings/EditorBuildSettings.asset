@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/MainMenu.unity
+    guid: bf944225d41a87c4da6a9e1eb19a04a4
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 1 - Get The Feel.unity
+    guid: f4b1211635a121c41809d5b4d38ab69e
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 2 - Playful Gravity.unity
+    guid: 07ee7a0acf1316c42a902f1d683f0535
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 3 - Patience is the key.unity
+    guid: 7c8e25cf2d736a04b8dc8c7a73038a63
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 4 - Always be Right.unity
+    guid: 645f0a4ecb0940b4d9c099397aa0d85a
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 5 - Find the one.unity
+    guid: e837a7fe02035eb439dc6e66d7b7438b
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 6 - Can't See far.unity
+    guid: 18e13e6f16593d748bc25137f645e6fa
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 7 - Australia.unity
+    guid: 8a6790df5e351be42ab4f3574efd959c
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 8 - Just go for it.unity
+    guid: 57b37971a07bad9498b7e5711b391e36
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 9 - Can;t move On Ground.unity
+    guid: 05260bfd88f72024aacc1588edf97d93
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 10 - Kinda Sus.unity
+    guid: dd52adebd11ebbd41821d76900b98b6c
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 11 - Flash in you.unity
+    guid: 2a3aa2e19dd041e41ae082151dce7027
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 12 - Nostalgia.unity
+    guid: 3c7ca3126dba4a243aced5815d36d0fc
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 13 - Illusion.unity
+    guid: 2efffaa84da594e40987c41286850ef8
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 14 - Inverse.unity
+    guid: 30987dd46fd87df4bacab0b82f8c9d67
+  - enabled: 1
+    path: Assets/Game/Scenes/Level 15 - Can you stay idle.unity
+    guid: bf97a1907b9fdad4a836d21630634a71
+  - enabled: 1
+    path: Assets/Game/Scenes/Game Over.unity
+    guid: 0c2fe54e4d14f5840a8325df13b6f08f
+  m_configObjects: {}
